@@ -1,0 +1,15 @@
+# Node packages
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# IDE configuration
+.vscode/
+
+# Distributions
+dist/
+
+# Local configurations
+*.local
